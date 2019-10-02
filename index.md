@@ -18,3 +18,11 @@
   <li>Stir and add milk </li>
    
   </ol>
+
+  <h3> Things to get done</h3> 
+  <ul>
+  <li>Read Week 2 Readings</li>
+  <li>Read the Assessment Instructions</li>
+  <li>Do the quiz by next week</li>
+   
+  </ul>
