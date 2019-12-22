@@ -1,7 +1,9 @@
 theme: jekyll-theme-cayman
-title: Sutharsan's Example
-description: An example of how to use GitHub pages
+title: French Language Learning 
+description: This website is designed to provide an introduction to France and the French language. The site includes range of activites and multimedia presentation to provide effective language learning.
 github:
   page2: page2.html
   page3: page3.html
   page4: page4.html
+  page5: page5.html
+  page6: page6.html
