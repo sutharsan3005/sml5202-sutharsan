@@ -1,34 +1,31 @@
-<h1>  Welcome! </h1> 
+<h1>  Welcome to this interactive French Language Learning platform </h1> 
 
-<p>This website is about English Language, culture and literature.</p>
+<p> This website will be designed for users to provide an introduction to France and the French language. It will include the basic information about France, as well as some useful sayings and vocabulary. Furthermore, it include a range of activities and multimedia presentations to provide active french language learning.</p>
 
 
-<h2> Ode to Autumn</h2> 
-
-<p>
-  Seasons of mists and mellow fruitfulness<br>
-  Close-bosomed friend of the maturing sun<br>
-  </p>
-  <p>How to make a cup of tea</p>
+<h2> Aims of the website: </h2> 
   <hr>
   <ol>
-  <li>Boil the water </li>
-  <li>Get a teabag </li>
-  <li>Pour the water in the mug </li>
-  <li>Stir and add milk </li>
-   
-  </ol>
+  <li> Personalised Learning </li>
+  <li>Recieve immediate scoring and grading from interactive presentations and activities </li>
+  <li> Motivate french language learning and its country </li>
+  <li> Improve language learning study </li>
+   </ol>
 
-  <h3> Things to get done</h3> 
-  <ul>
-  <li>Read Week 2 Readings</li>
-  <li>Read the Assessment Instructions</li>
-  <li>Do the quiz by next week</li>
-   
-  </ul>
+  <h2> Website Structure Outline <h2>
+    <hr>
+    <ol>
+      <li> Page 2 = About France </li>
+      <li> Page 3 = French Vocabulary Learning </li>
+      <li> Page 4 = French Phrases Learning </li>
+      <li> Page 5 = Famous France Locations </li>
+      <li> Page 6 = Further Study </li>
+    
 
 <p> 
   <a href="page2.html">Page 2</a> <br>
   <a href="page3.html">Page 3</a> <br>
   <a href="page4.html">Page 4</a> <br>
+  <a href="page5.html">Page 5</a> <br>
+  <a href="page6.html">Page 6</a> <br>
 </p>
