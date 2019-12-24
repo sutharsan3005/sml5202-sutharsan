@@ -5,7 +5,8 @@
   
 <a href="https://https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" title="France Flag"> 
 
-<img style="width:70%; border:1px solid green; margin-left:15%;" src="https://https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="image of France flag" >
+<img style="width:70%; border:1px solid green; margin-left:15%;" 
+<img src="https://https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="image of France flag" >
 
 <h2> Aims of the website: </h2> 
   <hr>
