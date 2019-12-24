@@ -6,4 +6,7 @@
  
 </p>
 
-<iframe src="https://h5p.org/h5p/embed/655286" width="1090" height="900" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<h1>  Execrise 1.0 - ABOUT FRANCE </h1> 
+
+<p> This section of the site will talk about the country France and some basic information based on its culture and environment  </p>
+
