@@ -10,3 +10,4 @@
 
 <p> This section of the site will talk about the country France and some basic information based on its culture and environment  </p>
 
+<p> France is located in the Western Europe where Paris, is its capital. Below is an interactive media presentation showcasing France </p>
