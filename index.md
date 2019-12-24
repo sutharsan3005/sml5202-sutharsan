@@ -3,7 +3,7 @@
 <p> This website will be designed for users to provide an introduction to France and the French language. It will include the basic information about France, as well as some useful sayings and vocabulary. Furthermore, it include a range of activities and multimedia presentations to provide active french language learning.</p>
 
   
-<img src="https://https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="Flag of France" >
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="Flag of France" >
 
 <h2> Aims of the website: </h2> 
   <hr>
