@@ -4,7 +4,7 @@
 
 <a href="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" title=" Flag of France"> 
 
-<img style="width:50%; border:1px solid green; margin-left:15%;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="image of biogeography of Europe" >
+<img style="width:30%; border:1px solid green; margin-left:15%;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg" alt="image of biogeography of Europe" >
   
 
 <h2> Aims of the website: </h2> 
