@@ -19,11 +19,11 @@
   <h2> Website Structure Outline <h2>
     <hr>
     <ol>
-      <li> Page 2 = About France </li>
-      <li> Page 3 = French Vocabulary Learning </li>
-      <li> Page 4 = French Phrases Learning </li>
-      <li> Page 5 = Famous France Locations </li>
-      <li> Page 6 = Further Study </li>
+      <li> About France </li>
+      <li> French Vocabulary Learning </li>
+      <li> French Phrases Learning </li>
+      <li> Famous France Locations </li>
+      <li> Further Study </li>
     
 
 <p> 
