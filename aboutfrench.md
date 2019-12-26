@@ -6,6 +6,11 @@
  
 </p>
 
+
+<p> There are two exercises to this section. Exercise 1.0 will talk about the country France and provide basic important information. On the other hand, Exercise 2.0 tests your knowledge upon the information collected from Exercise 1.0. Please go through it step by step for effective language learning. </p>
+
+
+
 <h1>  Execrise 1.0 - ABOUT FRANCE </h1> 
 
 <p> This section of the site will talk about the country France and some basic information based on its culture and environment  </p>
