@@ -13,3 +13,7 @@
 <p> France is located in the Western Europe where Paris, is its capital. Below is an interactive media presentation showcasing France </p>
 
 <iframe src="https://h5p.org/h5p/embed/685176" width="899" height="531" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<h1>  Execrise 2.0 - TEST YOUR KNOWLEDGE </h1> 
+
+<p> This exercise will determine how much you know about France from the information you have learnt from Exercise 1.o. Please ensure to answer the questions to the best of your ability. </p>
