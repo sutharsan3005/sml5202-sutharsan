@@ -5,7 +5,14 @@
 
 <table>
   <tr><th> Days of the week in English </th> <th> Days of the week in French </th> </tr>
-  <tr><td> Monday </td><td> Lundi </td> <td> Tuesday </td><td> Mardi </td><td> Wednesday </td><td> Mercredi </td><td> Thursday </td><td> Jeudi </td><td> Friday </td><td> Vendredi </td><td> Saturday </td><td> Samedi </td><td> Sunday </td><td> Dimanche </td></tr>
+  <tr><td> Monday </td><td> Lundi </td></tr> 
+  <tr><td> Tuesday </td><td> Mardi </td></tr>
+  <tr><td> Wednesday </td><td> Mercredi </td></tr>
+  <tr><td> Thursday </td><td> Jeudi </td></tr>
+  <tr><td> Friday </td><td> Vendredi </td></tr>
+  <tr><td> Saturday </td><td> Samedi </td></tr>
+  <tr><td> Sunday </td><td> Dimanche </td></tr>
+  </table>
   
     
 
