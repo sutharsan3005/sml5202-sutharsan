@@ -1,13 +1,20 @@
-<h1> Dialog Card Game </h1>
-<p> 
-  <a href="index.html">Home</a> <br>
-  <a href="page2.html">Page 2</a>
-  <a href="page4.html">Page 4</a>
-</p>
+<h1> French Vocabulary Learning </h1>
 
-<iframe src="https://h5p.org/h5p/embed/655274" width="1090" height="713" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<audio controls>
-  <source src="https://sutharsan3005.github.io/sml5202-sutharsan/assets/Mango.wav" type="audio/wave">
-Your browser does not support the audio element.
-</audio>
+<p> This webpage will teach you on the following: Days of the week, food and drinks, and numbers in French. As well as, it contains further study for learners willing to advance towards the end of the page. </p>
+
+<table>
+  <tr>
+    <th> Days of the week in English </th>
+    <th> Days of the week in French </th>
+    <td> Monday </td><td> Lundi </td>
+    <td> Tuesday </td><td> Mardi </td>
+    <td> Wednesday </td><td> Mercredi </td>
+    <td> Thursday </td><td> Jeudi </td>
+    <td> Friday </td><td> Vendredi </td>
+    <td> Saturday </td><td> Samedi </td>
+    <td> Sunday </td><td> Dimanche </td>
+  </tr>
+  
+    
+
