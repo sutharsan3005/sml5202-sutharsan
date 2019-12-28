@@ -18,5 +18,8 @@
   <tr><td> Sunday </td><td> Dimanche </td></tr>
   </table>
   
-<p> To understand the correct pronouncation, please click the following click: https://www.thefrenchexperiment.com/learn-french/days-of-week and click the 'play' icon next to each day of the week. </p>  
+<p> To understand the correct pronouncation, please click the following click: 
+  https://www.thefrenchexperiment.com/learn-french/days-of-week 
+  and click the 'play' icon next to each day of the week. 
+</p>  
 
