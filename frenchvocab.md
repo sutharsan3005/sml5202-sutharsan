@@ -26,3 +26,22 @@
 
 <h2> Execrise 4.0 - Learning Common Food and Drinks  </h2>
 <iframe src="https://h5p.org/h5p/embed/686485" width="900" height="531" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
+<h2> Execrise 5.0 - Numbers in French  </h2>
+
+<p> Please find below the numbers listed in French and its translation to English. After learning this slide on your own. Please advance to the second slide in order to watch a video to learn its correct pronouncation. ENJOY! </p>
+
+<table>
+  <tr><th> Numbers in English </th> <th> Numbers in French </th> </tr>
+  <tr><td> 0 </td><td> zero </td></tr> 
+  <tr><td> 1 </td><td> un </td></tr>
+  <tr><td> 2 </td><td> deux </td></tr>
+  <tr><td> 3 </td><td> trois </td></tr>
+  <tr><td> 4 </td><td> quatre </td></tr>
+  <tr><td> 5 </td><td> cinq </td></tr>
+  <tr><td> 6 </td><td> six </td></tr>
+  <tr><td> 7 </td><td> sept </td></tr>
+  <tr><td> 8 </td><td> huit </td></tr>
+  <tr><td> 9 </td><td> neuf </td></tr>
+  <tr><td> 10 </td><td> dix </td></tr>
+  </table>
