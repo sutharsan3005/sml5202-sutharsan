@@ -3,6 +3,10 @@
 
 <p> This webpage will teach you on the following: Days of the week, food and drinks, and numbers in French. As well as, it contains further study for learners willing to advance towards the end of the page. </p>
 
+<h2> "Days of the Week" Learning </h2>
+
+<p> The table below shows the days of the week in French and the translation to English. Making it more easier for learners to understand </p>
+
 <table>
   <tr><th> Days of the week in English </th> <th> Days of the week in French </th> </tr>
   <tr><td> Monday </td><td> Lundi </td></tr> 
@@ -14,5 +18,5 @@
   <tr><td> Sunday </td><td> Dimanche </td></tr>
   </table>
   
-    
+<p> To understand the correct pronouncation, please click the following click: https://www.thefrenchexperiment.com/learn-french/days-of-week and click the 'play' icon next to each day of the week. </p>  
 
