@@ -118,3 +118,8 @@
   </div>
 </div>
 
+<h2> KNOWLEDGE TEST </h2>
+
+<p> Please answer the questions below. It is a True/False activity, whereby you must only agree or disagree to the statement provided. </p>
+
+<iframe src="https://h5p.org/h5p/embed/687225" width="900" height="238" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
