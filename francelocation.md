@@ -83,3 +83,38 @@
   </div>
 </div>
 
+
+<div class="row">
+  <div class="column">
+    <h2>Sacre Ceour</h2>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Le_sacre_coeur.jpg" /></p>
+  </div>
+  <div class="column">
+    <h2>About</h2>
+    <p>The Sacre Coeur was built between 1875 and 1914 by an architect named Paul Abadie and currently has France’s biggest bell inside the building called the La Savoyarde weighing at 18 tonnes. It has quite a resemble and similarity to the Taj Mahal in India.  </p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <h2>Arc de Triomphe</h2>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Arc_de_Triomphe%2C_Paris_5_February_2019.jpg" /></p>
+  </div>
+  <div class="column">
+    <h2>About</h2>
+    <p>TThe Arc de Triomphe was particularly made by Napoleon who wanted to offer tribute to his Grande Armee. It is a monumental triumphal arch that sits atop the Avenue des Champs-Elysees. The Arc de Triomphe currently and was built to honour the French Imperial army of Napoleon.   </p>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="column">
+    <h2>Eiffel Tower</h2>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg" /></p>
+  </div>
+  <div class="column">
+    <h2>About</h2>
+    <p>This is one of the mostly visited iconic architectures. It is located on Champ de Mars in Paris. It was the main exhibit of the World’s Fair in order to celebrate the centennial of the French Revolution. in 1889. It was designed and built by the engineer named Gustave Eiffel. This tower is known to be 324 metres tall. </p>
+  </div>
+</div>
+
