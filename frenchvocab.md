@@ -1,7 +1,7 @@
 <h1> French Vocabulary Learning </h1>
 
 
-<p> This webpage will teach you on the following: Days of the week, food and drinks, and numbers in French. As well as, it contains further study for learners willing to advance towards the end of the page. </p>
+<p> This webpage will teach you on the following: Days of the week, food and drinks, and numbers in French. At the end of the page there will be a knowledge test where you can measure how effectieve your learning was. As well as, further study websites will be listed for indivduals that would like to advance </p>
 
 <h2> Execrise 3.0 - "Days of the Week" Learning </h2>
 
@@ -45,3 +45,16 @@
   <tr><td> 9 </td><td> neuf </td></tr>
   <tr><td> 10 </td><td> dix </td></tr>
   </table>
+  
+  
+  <h2> KNOWLEDGE TEST 2 - (Covers Execrise 3.0, 4.0 and 5.0) </h2>
+  
+  <iframe src="https://h5p.org/h5p/embed/687096" width="900" height="736" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+  
+  
+  <p> Well done for making it this far. Please either proceed to the next page for the next activity Or for those wishing to advance on the contents listed above then please click the following link below. You will be re-directed to another website. </p>
+  
+<p> [Days of the Week: Advance Learning](https://www.speaklanguages.com/french/vocab/days-of-the-week) </p>
+<p> [Learning common food: Advance Learning](http://www.smartphrase.com/French/fr_food-drink_phr.shtml) </p>
+<p> [Learning common drinks: Advance Learning](https://www.fluentu.com/blog/french/french-drinks-vocabulary/) </p>
+<p> [Learning numbers: Advance Learning](http://www.smartphrase.com/French/fr_numbers_voc.shtml)
