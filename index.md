@@ -16,20 +16,5 @@
   <li> Improve language learning study </li>
    </ol>
 
-  <h2> Website Structure Outline <h2>
-    <hr>
-    <ol>
-      <li> About France </li>
-      <li> French Vocabulary Learning </li>
-      <li> French Phrases Learning </li>
-      <li> Famous France Locations </li>
-      <li> Further Study </li>
-    
 
-<p> 
-  <a href="page2.html">Page 2</a> <br>
-  <a href="page3.html">Page 3</a> <br>
-  <a href="page4.html">Page 4</a> <br>
-  <a href="page5.html">Page 5</a> <br>
-  <a href="page6.html">Page 6</a> <br>
-</p>
+    
