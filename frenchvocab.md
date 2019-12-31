@@ -5,7 +5,7 @@
 
 <h2> Execrise 3.0 - "Days of the Week" Learning </h2>
 
-<p> The table below shows the days of the week in French and the translation to English. Making it more easier for learners to understand </p>
+<p> The table below shows the days of the week in French and the translation to English. Please learn and move forward to Exercise 4.0. </p>
 
 <table>
   <tr><th> Days of the week in English </th> <th> Days of the week in French </th> </tr>
@@ -25,11 +25,13 @@
 
 
 <h2> Execrise 4.0 - Learning Common Food and Drinks  </h2>
+<p> Exercise 4.0 entails two video. One video teaches about different common drinks whilst the other video educates the user on the learning the different type of food in French. Please watch and advance to Exercise 5.0. </p>
+
 <iframe src="https://h5p.org/h5p/embed/686485" width="900" height="531" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 <h2> Execrise 5.0 - Numbers in French  </h2>
 
-<p> Please find below the numbers listed in French and its translation to English. After learning this slide on your own. Please advance to the second slide in order to watch a video to learn its correct pronouncation. ENJOY! </p>
+<p> Please find below the numbers listed in French and its translation to English. Thereafter, please scroll down to undertake a test.  </p>
 
 <table>
   <tr><th> Numbers in English </th> <th> Numbers in French </th> </tr>
