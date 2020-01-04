@@ -16,5 +16,14 @@
   <li> Improve language learning study </li>
    </ol>
 
+<h2> What will you learn on our website? </h2>
+<hr>
+<ol>
+  <li> About France - You will gain an overall understanding about the country and its culture. </li>
+  <li> French Vocabulary - You will learn the following: Days of the week, Learning of common food and drinks, and Numbers. </li>
+  <li> French Phrases - You will learn the most common phrases at a beginner level. </li>
+  <li> Famous France Locations - Learn about the famous locations in France. Gain overall understanding of the country and its famous historic buildings. </li>
+  <li> Further Study - Contains additional resources to learn French and expand your knowledge </li>
+ </ol>
 
     
